@@ -1,0 +1,76 @@
+// sector cteated by Nikita Kudryavtsev UMMV-CH (VID:644558)
+// сontact me: ummv-ch@ivao.aero | nikita.kudryavtsev@ivao.aero
+// Version 1.8 (last update 20.04.2023)
+// AIRAC 2304
+[INFO]
+N053.53.04.000
+E028.01.14.300
+60
+35.37
+8.83
+UMMV;UMMV\UMMV;UMMV\SMALL;UMMV\UMBB;UMMV\UMGG;UMMV\UMII;UMMV\UMIO;UMMV\UMMG;UMMV\UMMS;UMMV\UMOO;UMMV\EYVI
+[AIRPORT]
+F;UMMV.apt
+[RUNWAY]
+F;UMMV.rwy
+[ATC]
+F;UMMV.atc
+[ATIS]
+F;UMMV.atis
+[FIXES]
+F;UMMV.fix
+[VOR]
+F;UMMV.vor
+[NDB]
+F;UMMV.ndb
+[ATIS]
+F;UMMV.atis
+[DEFINE]
+INFO;#ffffff;
+APP_F;#141414;
+APR_F;#1E1E1E;
+TWR_F;#282828;
+GND_F;#373737;
+CTR_F;#0A0A0A;	 
+CTR_L;#070707;
+CTR_O;#101010;
+border_f;#000000;
+border_o;#8A7C2D;
+[FILLCOLOR]
+F;UMDD.tfl
+F;UMLI.tfl
+F;UMMA.tfl
+F;UMMI.tfl
+F;UMNB.tfl
+F;UMWB.tfl
+F;UMSP.tfl
+F;UMST.tfl
+F;UMOV.tfl
+F;UMMVo.tfl
+F;UMNL.tfl
+F;UMAN.tfl
+[GEO]
+F;prohibit.geo
+F;restrict.geo
+F;danger.geo
+F;UMBB.geo
+F;UMGG.geo
+F;UMII.geo
+F;UMIO.geo
+F;UMMG.geo
+F;UMMS.geo
+F;UMOO.geo
+F;UMMI.geo
+F;UMSP.geo
+F;Roads.geo
+[ARTCC]
+F;UMMV.acc
+F;others.acc
+[CPDLC]
+F;UMMV.cpdlc
+[ARTCC HIGH]
+F;UMMV.hartcc
+[ARTCC LOW]
+F;UMMV.lartcc
+[HIGH AIRWAY]
+F;Hair.way
